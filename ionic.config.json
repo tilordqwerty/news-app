@@ -1,0 +1,7 @@
+{
+  "name": "04-news",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
